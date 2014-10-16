@@ -1,0 +1,6 @@
+C:\Resources\K2Field.SmartObject.Services.CSOMAddititions\K2Field.SmartObject.Services.CSOMAddititions\bin\Debug\K2Field.SmartObject.Services.CSOMAddititions.dll
+C:\Resources\K2Field.SmartObject.Services.CSOMAddititions\K2Field.SmartObject.Services.CSOMAddititions\bin\Debug\K2Field.SmartObject.Services.CSOMAddititions.pdb
+C:\Resources\K2Field.SmartObject.Services.CSOMAddititions\K2Field.SmartObject.Services.CSOMAddititions\bin\Debug\SourceCode.SmartObjects.Services.ServiceSDK.dll
+C:\Resources\K2Field.SmartObject.Services.CSOMAddititions\K2Field.SmartObject.Services.CSOMAddititions\obj\Debug\K2Field.SmartObject.Services.CSOMAddititions.dll
+C:\Resources\K2Field.SmartObject.Services.CSOMAddititions\K2Field.SmartObject.Services.CSOMAddititions\obj\Debug\K2Field.SmartObject.Services.CSOMAddititions.pdb
+C:\Resources\K2Field.SmartObject.Services.CSOMAddititions\K2Field.SmartObject.Services.CSOMAddititions\obj\Debug\K2Field.SmartObject.Services.CSOMAddititions.csprojResolveAssemblyReference.cache
